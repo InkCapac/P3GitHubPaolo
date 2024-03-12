@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @author Paolo
  */
 public class ReplaceScanner {
-
+//gracias por tu colaboracion
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Introduce una frase");
